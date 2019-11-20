@@ -24,19 +24,31 @@ perfiles.forEach((perfil, index) => {
           
      });
 
-     c(`Nombre: ${nombre}`);
-     c(`MAC: ${MAC}`);
+    //  c(`Nombre: ${nombre}`);
+    //  c(`MAC: ${MAC}`);
 
      arregloPerfiles.push({nombre, MAC});
      
 });
 
-c(arregloPerfiles[2].MAC);
+// Pasar en un texto los objetos con las instrucciones de MAC y el nombre
 
-// fs.appendFile('MAC-result.txt', archivo.replace(/linea/gi, "prueba"), err => {
-//     if (err) throw err;
-//     c('Archivo creado satisfactoriamente');
-// } );
-// // c(archivo.replace(/linea/gi, "prueba"));
+let texto = 'config firewall address\n';
+
+arregloPerfiles.forEach(perfil => {
+    let plantilla = `edit ${perfil.nombre}
+    set type mac
+    set start-mac ${perfil.MAC}
+    set end-mac ${perfil.MAC}
+    set color 2
+next\n`;
+    texto += plantilla;
+});
+
+
+fs.appendFile('MAC-result.txt', texto, err => {
+    if (err) throw err;
+    c('Archivo creado satisfactoriamente');
+} );
 
 

@@ -1,0 +1,31 @@
+config firewall address
+edit "Juan P Sepulveda"
+    set type mac
+    set start-mac d8:cb:8a:b2:23:4f
+    set end-mac d8:cb:8a:b2:23:4f
+    set color 2
+next
+edit "Capitan"
+    set type mac
+    set start-mac d8:cb:8a:b2:81:61
+    set end-mac d8:cb:8a:b2:81:61
+    set color 2
+next
+edit "Cafe Bar"
+    set type mac
+    set start-mac d8:cb:8a:b2:84:f4
+    set end-mac d8:cb:8a:b2:84:f4
+    set color 2
+next
+edit "Hostess"
+    set type mac
+    set start-mac 00:23:24:99:7f:54
+    set end-mac 00:23:24:99:7f:54
+    set color 2
+next
+edit "Restaurante Boga"
+    set type mac
+    set start-mac d8:cb:8a:d1:8e:88
+    set end-mac d8:cb:8a:d1:8e:88
+    set color 2
+next

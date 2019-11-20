@@ -1,0 +1,25 @@
+config firewall address
+edit "carepedal3"
+    set type mac
+    set start-mac 46:1e:a1:6e:51:6a
+    set end-mac 46:1e:a1:6e:51:6a
+    set color 2
+next
+edit "carepedal4"
+    set type mac
+    set start-mac 47:1e:a1:6e:51:6a
+    set end-mac 47:1e:a1:6e:51:6a
+    set color 2
+next
+edit "carepedal5"
+    set type mac
+    set start-mac 48:1e:a1:6e:51:6a
+    set end-mac 48:1e:a1:6e:51:6a
+    set color 2
+next
+edit "carepedal6"
+    set type mac
+    set start-mac 49:1e:a1:6e:51:6a
+    set end-mac 49:1e:a1:6e:51:6a
+    set color 2
+end

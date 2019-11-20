@@ -1,0 +1,20 @@
+edit "Juan P Sepulveda"
+        set mac d8:cb:8a:b2:23:4f
+        set type windows-pc
+next
+edit "Capitan"
+    set mac d8:cb:8a:b2:81:61
+    set type windows-pc
+next
+edit "Cafe Bar"
+    set mac d8:cb:8a:b2:84:f4
+    set type windows-pc
+next
+edit "Hostess"
+    set mac 00:23:24:99:7f:54
+    set type windows-pc
+next
+edit "Restaurante Boga"
+    set mac d8:cb:8a:d1:8e:88
+    set type windows-pc
+next

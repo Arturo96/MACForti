@@ -1,14 +1,22 @@
-edit "ControladorDominio"
+                edit "ControladorDominio"
     set mac a4:ba:db:34:61:17
     set type windows-pc
 next
+
+
 edit "Norali Marulanda"
     set mac d8:cb:8a:87:8f:a3
     set type windows-pc
 next
+
+
+
 edit "Datafono Recepcion_2"
     set mac 00:0b:4f:93:cd:48
 next
+
+
+
 edit "Gabriel Otalvaro"
     set mac d8:cb:8a:b2:22:75
     set type windows-pc

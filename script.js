@@ -20,7 +20,10 @@ perfiles.forEach((perfil, index) => {
     let MAC;
     
      lineas.forEach((linea, index) =>  {
-         if(linea.includes(':')) MAC = linea.trim().substr(8);
+         if(linea.includes(':')) {
+            MAC = linea.trim().substr(8);
+            
+         } 
           
      });
 
@@ -46,7 +49,7 @@ next\n`;
 });
 
 
-fs.appendFile('MAC-result.txt', texto, err => {
+fs.writeFile('MAC-result.txt', texto, err => {
     if (err) throw err;
     c('Archivo creado satisfactoriamente');
 } );

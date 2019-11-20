@@ -1,4 +1,0 @@
-Esta es linea una linea.
-
-Esta es otra linea.
-Y esta es una tercera linea.

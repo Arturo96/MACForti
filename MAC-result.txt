@@ -1,4 +1,160 @@
 config firewall address
+edit "ControladorDominio"
+    set type mac
+    set start-mac a4:ba:db:34:61:17
+    set end-mac a4:ba:db:34:61:17
+    set color 2
+next
+edit "Norali Marulanda"
+    set type mac
+    set start-mac d8:cb:8a:87:8f:a3
+    set end-mac d8:cb:8a:87:8f:a3
+    set color 2
+next
+edit "Datafono Recepcion_2"
+    set type mac
+    set start-mac 00:0b:4f:93:cd:48
+    set end-mac 00:0b:4f:93:cd:48
+    set color 2
+next
+edit "Gabriel Otalvaro"
+    set type mac
+    set start-mac d8:cb:8a:b2:22:75
+    set end-mac d8:cb:8a:b2:22:75
+    set color 2
+next
+edit "Mariana Gomez"
+    set type mac
+    set start-mac 50:7b:9d:54:82:c2
+    set end-mac 50:7b:9d:54:82:c2
+    set color 2
+next
+edit "Yuli Restrepo"
+    set type mac
+    set start-mac 50:7b:9d:4f:2d:ad
+    set end-mac 50:7b:9d:4f:2d:ad
+    set color 2
+next
+edit "Catalina Atehortua"
+    set type mac
+    set start-mac d8:cb:8a:b2:1f:b4
+    set end-mac d8:cb:8a:b2:1f:b4
+    set color 2
+next
+edit "Veder Alvarez"
+    set type mac
+    set start-mac d8:cb:8a:b2:22:3f
+    set end-mac d8:cb:8a:b2:22:3f
+    set color 2
+next
+edit "Nirvana SPA"
+    set type mac
+    set start-mac d8:cb:8a:b2:1a:b1
+    set end-mac d8:cb:8a:b2:1a:b1
+    set color 2
+next
+edit "Alexander Quiceno"
+    set type mac
+    set start-mac d8:cb:8a:b2:84:e9
+    set end-mac d8:cb:8a:b2:84:e9
+    set color 2
+next
+edit "Denis Garces"
+    set type mac
+    set start-mac d8:cb:8a:b1:6f:af
+    set end-mac d8:cb:8a:b1:6f:af
+    set color 2
+next
+edit "Yurley Rojas"
+    set type mac
+    set start-mac d8:cb:8a:b1:6e:61
+    set end-mac d8:cb:8a:b1:6e:61
+    set color 2
+next
+edit "Angie Gutierrez"
+    set type mac
+    set start-mac d8:cb:8a:b1:6e:70
+    set end-mac d8:cb:8a:b1:6e:70
+    set color 2
+next
+edit "Eliana Areiza"
+    set type mac
+    set start-mac 50:7b:9d:01:87:f9
+    set end-mac 50:7b:9d:01:87:f9
+    set color 2
+next
+edit "Servidor_APP"
+    set type mac
+    set start-mac 44:1e:a1:6e:51:6a
+    set end-mac 44:1e:a1:6e:51:6a
+    set color 2
+next
+edit "Minibares"
+    set type mac
+    set start-mac 68:f7:28:91:61:d8
+    set end-mac 68:f7:28:91:61:d8
+    set color 2
+next
+edit "Argemiro Quintero"
+    set type mac
+    set start-mac d8:cb:8a:86:b5:9d
+    set end-mac d8:cb:8a:86:b5:9d
+    set color 2
+next
+edit "Paula Herrera"
+    set type mac
+    set start-mac 50:7b:9d:08:2e:4b
+    set end-mac 50:7b:9d:08:2e:4b
+    set color 2
+next
+edit "Catalina Higuita"
+    set type mac
+    set start-mac d8:cb:8a:87:8f:fe
+    set end-mac d8:cb:8a:87:8f:fe
+    set color 2
+next
+edit "Gustavo Aguirre"
+    set type mac
+    set start-mac 00:23:24:a4:5f:97
+    set end-mac 00:23:24:a4:5f:97
+    set color 2
+next
+edit "Edna Rincon"
+    set type mac
+    set start-mac 00:23:24:a4:5e:75
+    set end-mac 00:23:24:a4:5e:75
+    set color 2
+next
+edit "Julieth Marin"
+    set type mac
+    set start-mac 00:23:24:a4:5d:81
+    set end-mac 00:23:24:a4:5d:81
+    set color 2
+next
+edit "Yohana Zuluaga"
+    set type mac
+    set start-mac 68:f7:28:2b:52:f1
+    set end-mac 68:f7:28:2b:52:f1
+    set color 2
+next
+edit "Bernarda Rodriguez"
+    set type mac
+    set start-mac 00:23:24:a4:5e:a0
+    set end-mac 00:23:24:a4:5e:a0
+    set color 2
+next
+edit "Martha Prado"
+    set type mac
+    set start-mac d8:cb:8a:b2:22:38
+    set end-mac d8:cb:8a:b2:22:38
+    set color 2
+next
+edit "Isabel Restrepo"
+    set type mac
+    set start-mac 54:ee:75:19:2d:92
+    set end-mac 54:ee:75:19:2d:92
+    set color 2
+next
 edit "Juan P Sepulveda"
     set type mac
     set start-mac d8:cb:8a:b2:23:4f
@@ -27,5 +183,221 @@ edit "Restaurante Boga"
     set type mac
     set start-mac d8:cb:8a:d1:8e:88
     set end-mac d8:cb:8a:d1:8e:88
+    set color 2
+next
+edit "Restaurante Diez"
+    set type mac
+    set start-mac 00:23:24:69:4d:73
+    set end-mac 00:23:24:69:4d:73
+    set color 2
+next
+edit "Lavanderia"
+    set type mac
+    set start-mac 00:23:24:69:50:13
+    set end-mac 00:23:24:69:50:13
+    set color 2
+next
+edit "Alejandra Gonzalez"
+    set type mac
+    set start-mac 00:23:24:a4:5f:8e
+    set end-mac 00:23:24:a4:5f:8e
+    set color 2
+next
+edit "Sala Procesos"
+    set type mac
+    set start-mac b4:99:ba:56:18:a7
+    set end-mac b4:99:ba:56:18:a7
+    set color 2
+next
+edit "Cristina Marin"
+    set type mac
+    set start-mac 68:f7:28:e6:ce:22
+    set end-mac 68:f7:28:e6:ce:22
+    set color 2
+next
+edit "Cristina Marin_"
+    set type mac
+    set start-mac b8:ac:6f:b9:69:94
+    set end-mac b8:ac:6f:b9:69:94
+    set color 2
+next
+edit "Servidor_DB"
+    set type mac
+    set start-mac 00:0c:29:64:e0:aa
+    set end-mac 00:0c:29:64:e0:aa
+    set color 2
+next
+edit "Impresora_Norali"
+    set type mac
+    set start-mac 00:c0:ee:da:7e:fd
+    set end-mac 00:c0:ee:da:7e:fd
+    set color 2
+next
+edit "DVR SPA"
+    set type mac
+    set start-mac 00:12:11:03:bc:ad
+    set end-mac 00:12:11:03:bc:ad
+    set color 2
+next
+edit "Publicidad_N"
+    set type mac
+    set start-mac a8:60:b6:35:5c:45
+    set end-mac a8:60:b6:35:5c:45
+    set color 2
+next
+edit "Recepcion_1"
+    set type mac
+    set start-mac 98:ee:cb:30:d4:91
+    set end-mac 98:ee:cb:30:d4:91
+    set color 2
+next
+edit "Recepcion_2"
+    set type mac
+    set start-mac 98:ee:cb:30:0b:91
+    set end-mac 98:ee:cb:30:0b:91
+    set color 2
+next
+edit "Recepcion_3"
+    set type mac
+    set start-mac 98:ee:cb:30:d4:c2
+    set end-mac 98:ee:cb:30:d4:c2
+    set color 2
+next
+edit "Datafono Cafe Bar"
+    set type mac
+    set start-mac 60:c7:98:1a:ac:66
+    set end-mac 60:c7:98:1a:ac:66
+    set color 2
+next
+edit "Alexandra Otalvaro"
+    set type mac
+    set start-mac 8c:ec:4b:f2:6e:db
+    set end-mac 8c:ec:4b:f2:6e:db
+    set color 2
+next
+edit "Carolina Serna"
+    set type mac
+    set start-mac 8c:ec:4b:f2:6e:86
+    set end-mac 8c:ec:4b:f2:6e:86
+    set color 2
+next
+edit "Sandra Adarve"
+    set type mac
+    set start-mac 8c:ec:4b:f2:6f:14
+    set end-mac 8c:ec:4b:f2:6f:14
+    set color 2
+next
+edit "Monica Lopez"
+    set type mac
+    set start-mac 8c:ec:4b:f2:6e:dc
+    set end-mac 8c:ec:4b:f2:6e:dc
+    set color 2
+next
+edit "Miguel Arcila"
+    set type mac
+    set start-mac 8c:ec:4b:f2:6f:13
+    set end-mac 8c:ec:4b:f2:6f:13
+    set color 2
+next
+edit "Gustavo Arroyave"
+    set type mac
+    set start-mac 8c:ec:4b:e8:94:3d
+    set end-mac 8c:ec:4b:e8:94:3d
+    set color 2
+next
+edit "Server_DC01"
+    set type mac
+    set start-mac 00:0c:29:47:f5:17
+    set end-mac 00:0c:29:47:f5:17
+    set color 2
+next
+edit "Server_IIS"
+    set type mac
+    set start-mac 00:0c:29:bb:d9:03
+    set end-mac 00:0c:29:bb:d9:03
+    set color 2
+next
+edit "Server_VeeamBackup"
+    set type mac
+    set start-mac 00:0c:29:44:4b:14
+    set end-mac 00:0c:29:44:4b:14
+    set color 2
+next
+edit "Impresora_Administrativa"
+    set type mac
+    set start-mac 00:17:c8:57:1d:dd
+    set end-mac 00:17:c8:57:1d:dd
+    set color 2
+next
+edit "Impresora_Recepcion"
+    set type mac
+    set start-mac 00:17:c8:57:1d:e1
+    set end-mac 00:17:c8:57:1d:e1
+    set color 2
+next
+edit "Impresora_Financiera"
+    set type mac
+    set start-mac 00:17:c8:57:1d:e0
+    set end-mac 00:17:c8:57:1d:e0
+    set color 2
+next
+edit "Impresora_Admin_HP"
+    set type mac
+    set start-mac 88:51:fb:ea:bf:6a
+    set end-mac 88:51:fb:ea:bf:6a
+    set color 2
+next
+edit "Datafono Recepcion_1"
+    set type mac
+    set start-mac 00:0b:4f:6e:c5:66
+    set end-mac 00:0b:4f:6e:c5:66
+    set color 2
+next
+edit "Carolina Fuentes"
+    set type mac
+    set start-mac 3c:18:a0:0f:ce:71
+    set end-mac 3c:18:a0:0f:ce:71
+    set color 2
+next
+edit "Natalia Aristizabal"
+    set type mac
+    set start-mac 3c:18:a0:0f:ce:50
+    set end-mac 3c:18:a0:0f:ce:50
+    set color 2
+next
+edit "Maryori Otalvaro"
+    set type mac
+    set start-mac 3c:18:a0:0f:ce:8c
+    set end-mac 3c:18:a0:0f:ce:8c
+    set color 2
+next
+edit "Roman Marin"
+    set type mac
+    set start-mac 3c:18:a0:0f:ce:66
+    set end-mac 3c:18:a0:0f:ce:66
+    set color 2
+next
+edit "Datafono RecepNuevo"
+    set type mac
+    set start-mac 60:c7:98:36:b7:9a
+    set end-mac 60:c7:98:36:b7:9a
+    set color 2
+next
+edit "x240 tempo"
+    set type mac
+    set start-mac 28:d2:44:67:1e:77
+    set end-mac 28:d2:44:67:1e:77
+    set color 2
+next
+edit "Ev Temporal"
+    set type mac
+    set start-mac 8c:16:45:26:b4:47
+    set end-mac 8c:16:45:26:b4:47
+    set color 2
+next
+edit "LM"
+    set type mac
+    set start-mac b4:99:ba:56:13:35
+    set end-mac b4:99:ba:56:13:35
     set color 2
 next

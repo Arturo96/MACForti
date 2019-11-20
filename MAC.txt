@@ -1,6 +1,109 @@
+edit "ControladorDominio"
+    set mac a4:ba:db:34:61:17
+    set type windows-pc
+next
+edit "Norali Marulanda"
+    set mac d8:cb:8a:87:8f:a3
+    set type windows-pc
+next
+edit "Datafono Recepcion_2"
+    set mac 00:0b:4f:93:cd:48
+next
+edit "Gabriel Otalvaro"
+    set mac d8:cb:8a:b2:22:75
+    set type windows-pc
+next
+edit "Mariana Gomez"
+    set mac 50:7b:9d:54:82:c2
+    set type windows-pc
+next
+edit "Yuli Restrepo"
+    set mac 50:7b:9d:4f:2d:ad
+    set type windows-pc
+next
+edit "Catalina Atehortua"
+    set mac d8:cb:8a:b2:1f:b4
+    set type windows-pc
+next
+edit "Veder Alvarez"
+    set mac d8:cb:8a:b2:22:3f
+    set type windows-pc
+next
+edit "Nirvana SPA"
+    set mac d8:cb:8a:b2:1a:b1
+    set type windows-pc
+next
+edit "Alexander Quiceno"
+    set mac d8:cb:8a:b2:84:e9
+    set type windows-pc
+next
+edit "Denis Garces"
+    set mac d8:cb:8a:b1:6f:af
+    set type windows-pc
+next
+edit "Yurley Rojas"
+    set mac d8:cb:8a:b1:6e:61
+    set type windows-pc
+next
+edit "Angie Gutierrez"
+    set mac d8:cb:8a:b1:6e:70
+    set type windows-pc
+next
+edit "Eliana Areiza"
+    set mac 50:7b:9d:01:87:f9
+    set type windows-pc
+next
+edit "Servidor_APP"
+    set mac 44:1e:a1:6e:51:6a
+    set type windows-pc
+next
+edit "Minibares"
+    set mac 68:f7:28:91:61:d8
+    set type windows-pc
+next
+edit "Argemiro Quintero"
+    set mac d8:cb:8a:86:b5:9d
+    set type windows-pc
+next
+edit "Paula Herrera"
+    set mac 50:7b:9d:08:2e:4b
+    set type windows-pc
+next
+edit "Catalina Higuita"
+    set mac d8:cb:8a:87:8f:fe
+    set type windows-pc
+next
+edit "Gustavo Aguirre"
+    set mac 00:23:24:a4:5f:97
+    set type windows-pc
+next
+edit "Edna Rincon"
+    set mac 00:23:24:a4:5e:75
+    set type windows-pc
+next
+edit "Julieth Marin"
+    set mac 00:23:24:a4:5d:81
+    set type windows-pc
+next
+edit "Yohana Zuluaga"
+    set mac 68:f7:28:2b:52:f1
+    set type windows-pc
+next
+edit "Bernarda Rodriguez"
+    set mac 00:23:24:a4:5e:a0
+    set type windows-pc
+next
+edit "Martha Prado"
+    set mac d8:cb:8a:b2:22:38
+    set type windows-pc
+next
+edit "Isabel Restrepo"
+    set mac 54:ee:75:19:2d:92
+    set type windows-pc
+next
 edit "Juan P Sepulveda"
-        set mac d8:cb:8a:b2:23:4f
-        set type windows-pc
+    set mac d8:cb:8a:b2:23:4f
+    set type windows-pc
 next
 edit "Capitan"
     set mac d8:cb:8a:b2:81:61
@@ -17,4 +120,120 @@ next
 edit "Restaurante Boga"
     set mac d8:cb:8a:d1:8e:88
     set type windows-pc
+next
+edit "Restaurante Diez"
+    set mac 00:23:24:69:4d:73
+    set type windows-pc
+next
+edit "Lavanderia"
+    set mac 00:23:24:69:50:13
+    set type windows-pc
+next
+edit "Alejandra Gonzalez"
+    set mac 00:23:24:a4:5f:8e
+    set type windows-pc
+next
+edit "Sala Procesos"
+    set mac b4:99:ba:56:18:a7
+    set type windows-pc
+next
+edit "Cristina Marin"
+    set mac 68:f7:28:e6:ce:22
+    set type windows-pc
+next
+edit "Cristina Marin_"
+    set mac b8:ac:6f:b9:69:94
+    set type windows-pc
+next
+edit "Servidor_DB"
+    set mac 00:0c:29:64:e0:aa
+    set type windows-pc
+next
+edit "Impresora_Norali"
+    set mac 00:c0:ee:da:7e:fd
+next
+edit "DVR SPA"
+    set mac 00:12:11:03:bc:ad
+next
+edit "Publicidad_N"
+    set mac a8:60:b6:35:5c:45
+next
+edit "Recepcion_1"
+    set mac 98:ee:cb:30:d4:91
+next
+edit "Recepcion_2"
+    set mac 98:ee:cb:30:0b:91
+next
+edit "Recepcion_3"
+    set mac 98:ee:cb:30:d4:c2
+next
+edit "Datafono Cafe Bar"
+    set mac 60:c7:98:1a:ac:66
+next
+edit "Alexandra Otalvaro"
+    set mac 8c:ec:4b:f2:6e:db
+next
+edit "Carolina Serna"
+    set mac 8c:ec:4b:f2:6e:86
+next
+edit "Sandra Adarve"
+    set mac 8c:ec:4b:f2:6f:14
+next
+edit "Monica Lopez"
+    set mac 8c:ec:4b:f2:6e:dc
+next
+edit "Miguel Arcila"
+    set mac 8c:ec:4b:f2:6f:13
+next
+edit "Gustavo Arroyave"
+    set mac 8c:ec:4b:e8:94:3d
+next
+edit "Server_DC01"
+    set mac 00:0c:29:47:f5:17
+next
+edit "Server_IIS"
+    set mac 00:0c:29:bb:d9:03
+next
+edit "Server_VeeamBackup"
+    set mac 00:0c:29:44:4b:14
+next
+edit "Impresora_Administrativa"
+    set mac 00:17:c8:57:1d:dd
+next
+edit "Impresora_Recepcion"
+    set mac 00:17:c8:57:1d:e1
+next
+edit "Impresora_Financiera"
+    set mac 00:17:c8:57:1d:e0
+next
+edit "Impresora_Admin_HP"
+    set mac 88:51:fb:ea:bf:6a
+next
+edit "Datafono Recepcion_1"
+    set mac 00:0b:4f:6e:c5:66
+next
+edit "Carolina Fuentes"
+    set mac 3c:18:a0:0f:ce:71
+next
+edit "Natalia Aristizabal"
+    set mac 3c:18:a0:0f:ce:50
+next
+edit "Maryori Otalvaro"
+    set mac 3c:18:a0:0f:ce:8c
+next
+edit "Roman Marin"
+    set mac 3c:18:a0:0f:ce:66
+next
+edit "Datafono RecepNuevo"
+    set mac 60:c7:98:36:b7:9a
+next
+edit "x240 tempo"
+    set mac 28:d2:44:67:1e:77
+    set type windows-pc
+next
+edit "Ev Temporal"
+    set mac 8c:16:45:26:b4:47
+next
+edit "LM"
+    set mac b4:99:ba:56:13:35
 next
